@@ -5,7 +5,7 @@
 	<artifactId>ottervpn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Project OtterVPN</name>
+	<name>OtterVPN</name>
 	<description>
 		This is a simple project that simplifies creation of digital
 		certificates and configuration files for various applications.
